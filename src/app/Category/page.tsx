@@ -3,7 +3,6 @@
 import React from 'react'
 import Image from 'next/image'
 import { motion } from 'framer-motion'
-import { FaHome, FaUser, FaServicestack, FaBriefcase, FaTools, FaEnvelope } from 'react-icons/fa';
 import { CiShoppingCart } from 'react-icons/ci';
 import { PiLockLaminatedFill, PiSecurityCameraBold } from 'react-icons/pi';
 
