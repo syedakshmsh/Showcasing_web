@@ -9,7 +9,7 @@ import { PiLockLaminatedFill, PiSecurityCameraBold } from 'react-icons/pi';
 const images1 = [
   '/Group4.png',
   '/Component 1.png',
-  '/Component 10.png',
+  '/Component 10(1).png',
 ]
 const images2 = [
   '/Section (1).png',
